@@ -1,1 +1,1 @@
-Undergraduate major project on paedetric pneumonia prediction using CNN
+Undergraduate major project on Paediatric Pneumonia Prediction using Convolutional Neural Network
